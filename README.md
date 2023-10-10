@@ -8,4 +8,4 @@ Once running the application through the command "Node server.js" in the termina
 
 ## Video Link
 Since there's no actual web link for this application - once again being just a backend program - I've included a video link example to show how this application works.
-[Uploading E-Commerce Backend.mp4…](https://github.com/srwesley/e-commerce-backend/assets/5975345/9e4a9bd0-42ad-4aff-94d7-af0dcdb80ecd)https://github.com/srwesley/e-commerce-backend/assets/5975345/9e4a9bd0-42ad-4aff-94d7-af0dcdb80ecd
+(https://github.com/srwesley/e-commerce-backend/assets/5975345/9e4a9bd0-42ad-4aff-94d7-af0dcdb80ecd)https://github.com/srwesley/e-commerce-backend/assets/5975345/9e4a9bd0-42ad-4aff-94d7-af0dcdb80ecd
